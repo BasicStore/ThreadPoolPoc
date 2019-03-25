@@ -1,5 +1,5 @@
 ---------------------------------------------------
-ExecutorService + Futures non-spring example.
+THREADPOOL / MULTI_THREADING AND FUTURES WITHOUT SPRING IN JAVA 8
 
 ---------------------------------------------------
 Note Runnable v Callable interfaces:
